@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1517-find-users-with-valid-e-mails](https://github.com/manusri06/january_2026/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/manusri06/january_2026/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/manusri06/january_2026/tree/master/1667-fix-names-in-a-table) |
+| [1729-find-followers-count](https://github.com/manusri06/january_2026/tree/master/1729-find-followers-count) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/manusri06/january_2026/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/manusri06/january_2026/tree/master/1757-recyclable-and-low-fat-products) |
 | [1795-rearrange-products-table](https://github.com/manusri06/january_2026/tree/master/1795-rearrange-products-table) |
