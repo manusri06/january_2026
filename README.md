@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/manusri06/january_2026/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/manusri06/january_2026/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/manusri06/january_2026/tree/master/1148-article-views-i) |
+| [1179-reformat-department-table](https://github.com/manusri06/january_2026/tree/master/1179-reformat-department-table) |
 | [1211-queries-quality-and-percentage](https://github.com/manusri06/january_2026/tree/master/1211-queries-quality-and-percentage) |
 | [1484-group-sold-products-by-the-date](https://github.com/manusri06/january_2026/tree/master/1484-group-sold-products-by-the-date) |
 | [1517-find-users-with-valid-e-mails](https://github.com/manusri06/january_2026/tree/master/1517-find-users-with-valid-e-mails) |
