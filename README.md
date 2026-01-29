@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1179-reformat-department-table](https://github.com/manusri06/january_2026/tree/master/1179-reformat-department-table) |
 | [1193-monthly-transactions-i](https://github.com/manusri06/january_2026/tree/master/1193-monthly-transactions-i) |
 | [1211-queries-quality-and-percentage](https://github.com/manusri06/january_2026/tree/master/1211-queries-quality-and-percentage) |
+| [1251-average-selling-price](https://github.com/manusri06/january_2026/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/manusri06/january_2026/tree/master/1280-students-and-examinations) |
 | [1484-group-sold-products-by-the-date](https://github.com/manusri06/january_2026/tree/master/1484-group-sold-products-by-the-date) |
 | [1517-find-users-with-valid-e-mails](https://github.com/manusri06/january_2026/tree/master/1517-find-users-with-valid-e-mails) |
