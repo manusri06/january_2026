@@ -1,3 +1,4 @@
+# Write your MySQL query statement below
 SELECT
     contest_id,
     ROUND(COUNT(DISTINCT user_id) * 100.0 / 
